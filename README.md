@@ -1,4 +1,4 @@
-# TinDog - A Demo Landing Page for a Dog Fractionation App
+# TinDog - Landing Page 🐶
 TinDog is a demo landing page created for a fictional app that functions like Tinder, but for dogs. This project showcases the use of HTML, CSS, and Bootstrap to build a responsive and visually appealing interface.
 
 ## Features
